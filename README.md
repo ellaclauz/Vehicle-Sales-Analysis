@@ -16,7 +16,6 @@ A few things to note:
 
 ## Process
 #### Steps taken toward the completion of this project include:
-* Identifying required columns
 * cleaning the dataset
 * Data transformation in Power Query
 * Creating measures using DAX functions
