@@ -3,7 +3,7 @@ This is a Power BI visualization project
 
 Sales Performance Analysis is a way to measure your sales progress over a period of time. The analysis allows you and your sales team to identify weaknesses in your sales strategy and make changes so that you can improve the results over the next period. It also provides several significant advantages to businesses and this includes identifying areas of improvement, tracking progress, as well as increasing revenue.
 
-I analyzed this Vehicle sales dataset from https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download and conducted a Sales Performance Analysis to provide insights on: 
+I analyzed this Vehicle sales dataset from [link](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data?resource=download) and conducted a Sales Performance Analysis to provide insights on: 
 * How is the company's overall performance?
 * What are the most profitable product lines?
 * What are the top-selling product lines in each country/ region?
